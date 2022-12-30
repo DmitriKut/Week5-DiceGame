@@ -1,0 +1,15 @@
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\bin\Debug\net5.0\OneToTen.exe
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\bin\Debug\net5.0\OneToTen.deps.json
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\bin\Debug\net5.0\OneToTen.runtimeconfig.json
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\bin\Debug\net5.0\OneToTen.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\bin\Debug\net5.0\OneToTen.dll
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\bin\Debug\net5.0\ref\OneToTen.dll
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\bin\Debug\net5.0\OneToTen.pdb
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\obj\Debug\net5.0\OneToTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\obj\Debug\net5.0\OneToTen.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\obj\Debug\net5.0\OneToTen.AssemblyInfo.cs
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\obj\Debug\net5.0\OneToTen.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\obj\Debug\net5.0\OneToTen.dll
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\obj\Debug\net5.0\ref\OneToTen.dll
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\obj\Debug\net5.0\OneToTen.pdb
+C:\Users\atrei\source\repos\MoreLoops\OneToTen\obj\Debug\net5.0\OneToTen.genruntimeconfig.cache

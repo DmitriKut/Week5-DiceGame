@@ -1,0 +1,15 @@
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.exe
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.dll
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.dll
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+C:\Users\atrei\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.AssemblyInfo.cs
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.exe
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.deps.json
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.runtimeconfig.json
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.dll
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ref\ForLoopSum.dll
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.pdb
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.dll
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ref\ForLoopSum.dll
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.pdb
+C:\Users\atrei\source\repos\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.genruntimeconfig.cache
